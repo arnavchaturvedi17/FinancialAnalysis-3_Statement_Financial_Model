@@ -1,6 +1,6 @@
-# Financial Analysis (3 Statement Financial Model)
-Arnav Chaturvedi.  
-Project Role: Financial Analyst – Financial Technology Services Industry.
+# Financial Analysis: 3 Statement Financial Model. [Using MS Excel]
+### Arnav Chaturvedi.  
+### Project Role: Financial Analyst – Financial Technology Services Industry.
 
 ## Portfolio Project Overview:
 Chaturvedi FinTech Products, LLC is a FinTech startup company to help small businesses (focusing on minority owned small businesses) with their financial needs- businesses seeking to improve and automate the delivery and use of financial services such as ...
@@ -17,26 +17,26 @@ The finance manager in Chaturvedi FinTech Products, LLC would like to know/analy
 
 ## Target Stakeholders:
 This financial analysis tool will be used for following job roles to increase their productivity and achieve business goals. 
-•	Finance Manager
-•	Chief Finance Officer (CFO)
-•	Financial Analysts
-•	Business Analysts
-•	Financial Regulation Authorities
-•	Financial Auditors
+
+* Finance Manager
+* Chief Finance Officer (CFO)
+* Financial Analysts
+* Business Analysts
+* Financial Regulation Authorities
+* Financial Auditors
 
 
 ## Skills and Applications used: 
-•	Microsoft Excel 
-o	Knowledge of formulae and functions to be used in any typical financial data analytical solutions.
-
-•	SME (Subject Matter Expertise)
-o	Business requirement gathering skill and techniques.
-o	Finance knowledge and expertise.
-	Income Statements
-	Balance Sheets
-	Statement of cash flows
-	Related all key line items
-	Types of assumptions: making forecast figures for future years.
+* Microsoft Excel 
+*   Knowledge of formulae and functions to be used in any typical financial data analytical solutions.
+* SME (Subject Matter Expertise)
+  *  Business requirement gathering skill and techniques.
+  *  Finance knowledge and expertise.
+  *  Income Statements
+  *  Balance Sheets
+  *  Statement of cash flows
+  *  Related all key line items
+  *  Types of assumptions: making forecast figures for future years.
 
 ## Solution Approach and Process to build this project:
 I created a three-statement model linking the income statement, balance sheet, and cash flow statement into a dynamic financial model used for valuation (discounted cash flows, M&A models, LBOs etc.) as well as financial analysis (scenario analysis, sensitivity analysis etc.).
@@ -56,65 +56,65 @@ Solution Steps:
 
 
 ## Notes (for Linking 3 Statements together):
--	For “Income Statement”:
--	Made a few assumptions such as Revenue, Average Price, Discounts, COGS, Operating Expenses, Tax etc.
--	EBITDA (Depreciation and Amortization) amounts will be blank for now. This will be filled when the data comes from calculated figures from the “Fixed Asset” step later on.
--	EBIT (Interest Expense) amounts will be blank for now. This will be filled when the data comes from calculated figures from “Balance Sheet” step later on.
+### For “Income Statement”: 
+* Made a few assumptions such as Revenue, Average Price, Discounts, COGS, Operating Expenses, Tax etc.
+* EBITDA (Depreciation and Amortization) amounts will be blank for now. This will be filled when the data comes from calculated figures from the “Fixed Asset” step later on.
+* EBIT (Interest Expense) amounts will be blank for now. This will be filled when the data comes from calculated figures from “Balance Sheet” step later on.
   
--	For “Fixed Assets”:
--	Made a few assumptions and calculated the CapEx and depreciation schedule with actual/estimated figures.
--	Link these calculated figures to the EBITDA (Depreciation and Amortization) line item in the “Income Statement” tab from earlier.
--	For “Balance Sheet”:
--	Made a few assumptions such as the Net Revenue, COGS, Debt etc.
--	I used the calculation line for the ‘Balance Check’ which automatically validates the balance sheet’s accuracy (i.e. Assets = Liabilities - Equity).
--	“Net Revenue” and COGS figures will link and come from calculated line items in the “Income Statement” tab above.
--	“Fixed Assets” figures will link and come from the “Fixed Asset” Total CapEx line items calculated above. 
--	“Accumulated Depreciation” figures will link and come from the “Fixed Asset” Total D&A line items calculated above.
--	“Equity” figures will link and come from the “Income Statement” Net Income line items calculated above.
--	“Interest Payment” figures will link to the “Income Statement” EBIT-Interest Expense line item.
+### For “Fixed Assets”:
+* Made a few assumptions and calculated the CapEx and depreciation schedule with actual/estimated figures.
+* Link these calculated figures to the EBITDA (Depreciation and Amortization) line item in the “Income Statement” tab from earlier.
 
+### For “Balance Sheet”:
+* Made a few assumptions such as the Net Revenue, COGS, Debt etc.
+* I used the calculation line for the ‘Balance Check’ which automatically validates the balance sheet’s accuracy (i.e. Assets = Liabilities - Equity).
+* “Net Revenue” and COGS figures will link and come from calculated line items in the “Income Statement” tab above.
+* “Fixed Assets” figures will link and come from the “Fixed Asset” Total CapEx line items calculated above. 
+* “Accumulated Depreciation” figures will link and come from the “Fixed Asset” Total D&A line items calculated above.
+* “Equity” figures will link and come from the “Income Statement” Net Income line items calculated above.
+* “Interest Payment” figures will link to the “Income Statement” EBIT-Interest Expense line item.
 
--	For “Cash Flow Statement”:
--	To make the balance sheet accurate, i.e. have all zeros in the “Balance Check” line, we need to create a cash flow statement with appropriate figures (current assets: cash).
--	“Net Income” line item will link and come from the “Income Statement” Net Income line item.
--	“Depreciation” line item will link and come from the “Fixed Assets” Total D&A line item.
--	“Change in Account Receivable” line item will link and come from the “Balance Sheet” Account Receivable line item.
--	“Change in Account Payable” line item will link and come from the “Balance Sheet” Account Payable line item. 
--	“CapEx” line item will link and come from the “Fixed Assets” Total CapEx line item. 
--	“Debt Repayment” and “Net Borrowing” line items will link and come from the “Balance Sheet” Debt Repayment and Net Borrowing line items. 
--	Now, link and fill “Cash” figures into the “Balance Sheet” line item.
- 
--	For accuracy of the 3 statements linking and “Balance Sheet”:
--	After following all steps and linking the 3 statements together, the “Balance Check” line is all zero, thus it is accurate.
+### For “Cash Flow Statement”:
+* To make the balance sheet accurate, i.e. have all zeros in the “Balance Check” line, we need to create a cash flow statement with appropriate figures (current assets: cash).
+* “Net Income” line item will link and come from the “Income Statement” Net Income line item.
+* “Depreciation” line item will link and come from the “Fixed Assets” Total D&A line item.
+* “Change in Account Receivable” line item will link and come from the “Balance Sheet” Account Receivable line item.
+* “Change in Account Payable” line item will link and come from the “Balance Sheet” Account Payable line item. 
+* “CapEx” line item will link and come from the “Fixed Assets” Total CapEx line item. 
+* “Debt Repayment” and “Net Borrowing” line items will link and come from the “Balance Sheet” Debt Repayment and Net Borrowing line items. 
+* Now, link and fill “Cash” figures into the “Balance Sheet” line item.
+
+### For accuracy of the 3 statements linking and “Balance Sheet”:
+* After following all steps and linking the 3 statements together, the “Balance Check” line is all zero, thus it is accurate.
 
 ![image](https://github.com/user-attachments/assets/82214a9e-0202-40a3-b45c-ef069afba844)
 
 
 To achieve the company’s objective and develop analytical tools to support business requirements, I used the following subject matter knowledge and Microsoft Excel skills:
--	Advanced Excel functions/formulae.
--	EDATE() – Date manipulation and custom cell formatting (for Estimated and Actual) e.g. yyyy/E, mmm-yy/A
--	Formula to make a cell dynamic (Tile for line items. e.g.  “=B6&” as % of Rev”)
--	Visual Formatting; style as per company’s UI/UX standards.
+* Advanced Excel functions/formulae.
+* EDATE() – Date manipulation and custom cell formatting (for Estimated and Actual) e.g. yyyy/E, mmm-yy/A
+* Formula to make a cell dynamic (Tile for line items. e.g.  “=B6&” as % of Rev”)
+* Visual Formatting; style as per company’s UI/UX standards.
 
 ## Data Preparation Process (Data gathering, Data Cleaning, Data Transformation): 
-•	Data Gathering – The Dataset (Microsoft Excel/ CSV File).
-o	Data Sheet: 4 tabs in MS-Excel workbook (Income Statement, Balance Sheet, Statement of Cashflows, Fixed Assets)
-o	Few assumptions in each tab for financial modeling.
-•	Data Pre-Processing and Transformation.
-o	Cell formatting, proper cell indentation as per financial reports standards.
-o	Calculations for totals and sub-totals for report line items.
-o	Creating new custom formatting for columns
+* Data Gathering – The Dataset (Microsoft Excel/ CSV File).
+  * Data Sheet: 4 tabs in MS-Excel workbook (Income Statement, Balance Sheet, Statement of Cashflows, Fixed Assets)
+  * Few assumptions in each tab for financial modeling.
+* Data Pre-Processing and Transformation.
+  * Cell formatting, proper cell indentation as per financial reports standards.
+  * Calculations for totals and sub-totals for report line items.
+  * Creating new custom formatting for columns
 
 ## Data Analysis & Visualization – Dashboard, Reports, Charts, Key findings, Data Insights:
-•	Used proper visual formatting as per financial reports standards – Totals, Sub-Totals, Bold, Underlines etc.
-•	No visualization charts required for this project.
-•	Refer to screenshots below for reports for this solution.
+* Used proper visual formatting as per financial reports standards – Totals, Sub-Totals, Bold, Underlines etc.
+* No visualization charts required for this project.
+* Refer to screenshots below for reports for this solution.
 
 ## Portfolio Project Documentation (Final Conclusion):
 Documentation: 
-•	ReadMe- Financial-Analysis-3 Statement Model.docx
+* ReadMe- Financial-Analysis-3 Statement Model.docx
 Output File:
-•	Financial-Analysis-3 Statement Model.xlsx
+* Financial-Analysis-3 Statement Model.xlsx
 
 ![image](https://github.com/user-attachments/assets/e73c14a3-f976-414b-9241-6d71053147f2)
 
