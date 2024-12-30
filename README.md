@@ -2,6 +2,11 @@
 ### Arnav Chaturvedi.  
 ### Project Role: Financial Analyst – Financial Technology Services Industry.
 
+
+## Three Statement Financial Model:
+A "Three Statement Financial Model" is a financial modeling tool that combines and forecasts a company's Income Statement, Balance Sheet, and Cash Flow Statement, essentially providing a comprehensive picture of a company's financial health and future performance by linking these three key financial statements together; changes in one statement directly impact the others, allowing for a more holistic analysis.
+![image](https://github.com/user-attachments/assets/66d03c89-c066-4063-8d2a-c0d711c2e58b)
+
 ## Portfolio Project Overview:
 Chaturvedi FinTech Products, LLC is a FinTech startup company to help small businesses (focusing on minority owned small businesses) with their financial needs- businesses seeking to improve and automate the delivery and use of financial services such as ...
 -	Payment Processors and Hardware support.
